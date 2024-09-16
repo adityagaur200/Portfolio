@@ -120,16 +120,16 @@
     opacity: 1;
 }
 .card--1 .card__img, .card--1 .card__img--hover {
-    background-image: url('./tracker.png');
+    background-image: url('../../public/tracker.png');
 }
 .card--2 .card__img, .card--2 .card__img--hover {
-    background-image: url('./web1.png');
+    background-image: url('../../public/web1.png');
 }
 .card--3 .card__img, .card--3 .card__img--hover {
-    background-image: url('./insta.png');
+    background-image: url('../../public/insta.png');
 }
 .card--4 .card__img, .card--4 .card__img--hover {
-    background-image: url("./news.png");
+    background-image: url("../../public/news.png");
 }
 
 .stackdiv{
